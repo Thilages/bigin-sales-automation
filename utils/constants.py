@@ -1,0 +1,6 @@
+CLOSED_QUAL_LOST=["Qual No","Wrong Person / Company","Out of office"]
+CLOSED_SALES_LOST=["Closed Lost"]
+CLOSED_SLOWMO_LOST=["Closed Lost"]
+CLOSED_QUAL_POSITIVE=["Qual Yes"]
+CLOSED_SALES_POSITIVE=["Closed Won","Closed Not Now"]
+CLOSED_SLOWMO_POSITIVE=["Closed Won"]
